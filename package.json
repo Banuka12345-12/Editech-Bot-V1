@@ -1,0 +1,15 @@
+{
+  "name": "editech-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "axios": "latest",
+    "tesseract.js": "latest",
+    "qrcode-terminal": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
